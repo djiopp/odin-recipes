@@ -1,0 +1,40 @@
+* {
+    background: #FA8072;
+    font-family: 'helvetica', 'arial', sans-serif;
+    color: white;
+}
+
+h1 {
+    text-align: center;
+    font-size: 40px;
+    font-weight: bold;
+    color:rgb(118, 118, 118)
+}
+
+h2 {
+    font-size: 30px;
+}
+
+a {
+    color: rgb(77, 77, 77);
+    font-weight: bold;
+}
+
+.recipeimage {
+    height: 377px;
+}
+
+p {
+    background-color: black;
+
+}
+
+.ingredients {
+    color:rgb(118, 118, 118);
+
+}
+
+.steps {
+    color: yellow;
+}
+
